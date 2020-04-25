@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Pringles
+- Must
+- Be
+  - Salt
+  - and
+  - Vinegar
